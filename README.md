@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Dip Roy - Software Engineer Banner" width="100%" />
 </p>
 
 <p align="center">
