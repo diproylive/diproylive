@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=160&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=32&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=170&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=32&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="90%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dip+Roy;Mobile+Application+Developer;React+Native+%26+Android+Specialist;Full-Stack+Web+Developer;Exploring+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Dip+Roy;📱+Mobile+Application+Developer;⚛️+React+Native+%26+Android+Specialist;🌐+Full-Stack+Web+Developer;🤖+Exploring+AI-Powered+Applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -28,12 +28,13 @@
 
 ```javascript
 const dipRoy = {
-    code: ["JavaScript", "TypeScript"],
+    code: ["JavaScript", "TypeScript", "Python"],
     mobile: ["React Native", "Android Architecture"],
     web: ["React", "HTML5", "CSS3", "Node.js", "Express.js"],
+    ai_ml: ["Machine Learning", "OpenCV", "AI Diagnostic Tools"],
     database: ["MongoDB", "Firebase", "SQL"],
     architecture: ["Clean Architecture", "Scalable Systems", "REST APIs"],
-    passions: ["AI-powered Apps", "Real-time Systems", "UX Optimization"],
+    passions: ["AI-powered Apps", "Real-time Systems", "Mobile Innovation"],
     currentFocus: "Building high-performance mobile & web applications 🚀"
 };
 ```
@@ -44,8 +45,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 - ⚛️ **React Native Specialist** — Native feel with cross-platform efficiency
 - 🌐 **Web Developer** — Building robust, interactive web interfaces
 - 💻 **Software Engineer** — Writing clean, maintainable, production-ready code
-- 🔧 **System Architecture** — Passionate about scalable & maintainable codebase patterns
-- 🤖 **AI Explorer** — Integrating AI features into mobile & web ecosystems
+- 🤖 **AI Explorer** — Developing Machine Learning & AI-powered healthcare & web tools
 
 ---
 
@@ -53,7 +53,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,firebase,postgres,html,css,git,github,vscode,androidstudio&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,py,nodejs,express,mongodb,firebase,postgres,html,css,git,github,vscode,androidstudio&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
@@ -66,6 +66,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 | **Mobile Development** | `React Native` • `Android` • `JavaScript` • `TypeScript` |
 | **Frontend Web** | `React` • `HTML5` • `CSS3` • `JavaScript (ES6+)` |
 | **Backend & APIs** | `Node.js` • `Express.js` • `RESTful APIs` |
+| **AI / ML & Vision** | `Python` • `OpenCV` • `Machine Learning` |
 | **Databases** | `MongoDB` • `Firebase Firestore / Realtime DB` • `SQL (PostgreSQL/MySQL)` |
 | **Tools & Environment** | `Git` • `GitHub` • `VS Code` • `Android Studio` |
 
@@ -73,7 +74,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects & Production Applications
 
 <table>
   <tr>
@@ -81,35 +82,55 @@ I build scalable, high-performance mobile and web applications with a strong emp
       <h3 align="center">📱 The Global App</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?style=flat-square&logo=react" alt="React Native" />
-        <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Store-Google%20Play-414141?style=flat-square&logo=googleplay" alt="Google Play" />
       </p>
-      <p>A flagship mobile platform crafted with React Native, focused on seamless global connectivity, high efficiency, and clean UI architecture.</p>
+      <p>Flagship mobile application built with React Native for seamless global connectivity, high performance, and intuitive UX.</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.theglobal.app&hl=en_IN" target="_blank">
+          <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-00F5D4?style=for-the-badge&logo=googleplay&logoColor=black" alt="The Global App Play Store" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚚 Smart Logistics & Accessibility</h3>
+      <h3 align="center">🎓 Skoolin App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Platform-Cross--Platform-ff69b4?style=flat-square" alt="Cross Platform" />
-        <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Mobile-Android%20%2F%20RN-3DDC84?style=flat-square&logo=android" alt="Android" />
+        <img src="https://img.shields.io/badge/Store-Google%20Play-34A853?style=flat-square&logo=googleplay" alt="Google Play" />
       </p>
-      <p>An intelligent logistics and accessibility platform streamlining real-time asset tracking, accessibility tools, and dispatch management.</p>
+      <p>Intelligent school management and educational accessibility platform streamlining school activities and student communication.</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.skoolin.myapp&hl=en" target="_blank">
+          <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Skoolin App Play Store" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI-Powered Applications</h3>
+      <h3 align="center">🫀 HeartGuard AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow" alt="AI" />
-        <img src="https://img.shields.io/badge/API-REST%20%2F%20OpenAI-412991?style=flat-square" alt="API" />
+        <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
       </p>
-      <p>Innovative applications leveraging modern artificial intelligence, smart automated workflows, and LLM integrations.</p>
+      <p>AI-powered heart disease risk diagnostic web app utilizing clinical parameters, ML algorithms, and interactive symptom chatbot.</p>
+      <p align="center">
+        <a href="https://github.com/diproylive/HeartGuard_AI" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="HeartGuard AI Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Real-Time Communication Apps</h3>
+      <h3 align="center">📦 React Native Simple Loader</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Realtime-WebSockets-010101?style=flat-square&logo=socketdotio" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Package-React%20Native-61DAFB?style=flat-square&logo=react" alt="React Native" />
+        <img src="https://img.shields.io/badge/NPM-Package-CB3837?style=flat-square&logo=npm" alt="NPM" />
       </p>
-      <p>High-speed instant messaging and audio/video sync applications built with WebSockets, Node.js, and MongoDB for low latency.</p>
+      <p>A customizable, lightweight loader and activity indicator component package for React Native mobile applications.</p>
+      <p align="center">
+        <a href="https://github.com/diproylive/react-native-simple-loader" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="React Native Simple Loader Repo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -129,7 +150,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Live Contribution Graph
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00b4db/diproylive" alt="Dip Roy's GitHub Contributions Chart" width="100%" />
@@ -137,7 +158,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📱 Graphic Banner Showcase
+### 📱 Developer Showcase Banner
 
 <p align="center">
   <img src="assets/header_banner.png" alt="Dip Roy Cyberpunk Tech Banner" width="60%" />
@@ -145,17 +166,23 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 💬 Let's Build Something Impactful Together!
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/diproylive">
+  <a href="https://www.linkedin.com/in/dip-roy-56a256257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/diproylive" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:diproylive@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.facebook.com/dipr00799" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/dipr00799/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
