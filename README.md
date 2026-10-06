@@ -1,10 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=70&lines=👋+Hi%2C+I'm+Dip+Roy;📱+Mobile+Application+Developer;⚛️+React+Native+%26+Android+Expert;🌐+Full-Stack+Web+Developer;🤖+Exploring+AI-Powered+Apps" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=Software%20Engineer%20%7C%20Mobile%20App%20Developer&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="assets/header_banner.png" alt="Dip Roy - Software Engineer Header Banner" width="100%" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dip+Roy;Software+Engineer;Mobile+Application+Developer;React+Native+%26+Android+Specialist;Exploring+AI-Powered+Applications" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/diproylive">
@@ -49,7 +49,7 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,react,js,ts,nodejs,express,mongodb,firebase,postgres,html,css,git,github,vscode,androidstudio&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,firebase,postgres,html,css,git,github,vscode,androidstudio&perline=7" alt="Tech Stack" />
   </a>
 </p>
 
@@ -66,14 +66,6 @@ I build scalable, high-performance mobile and web applications with a strong emp
 | **Tools & Environment** | `Git` • `GitHub` • `VS Code` • `Android Studio` |
 
 </details>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diproylive&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Dip Roy Trophies" />
-</p>
 
 ---
 
@@ -133,17 +125,25 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diproylive&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/00b4db/diproylive" alt="Dip Roy's GitHub Contributions Chart" width="100%" />
+</p>
+
+---
+
+### 📱 Developer Showcase
+
+<p align="center">
+  <img src="assets/mobile_showcase.png" alt="Mobile App Showcase" width="100%" />
 </p>
 
 ---
 
 ### 💬 Let's Build Something Impactful Together!
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/diproylive">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
