@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="100%" height="160" style="object-fit: cover;" />
+  <img src="assets/header_banner_clean.png" alt="Dip Roy - Software Engineer Header Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=120&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=28&fontColor=00f5d4&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=140&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=28&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Dip+Roy;📱+Mobile+Application+Developer;⚛️+React+Native+%26+Android+Specialist;🌐+Full-Stack+Web+Developer;🤖+Exploring+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Dip+Roy;📱+Mobile+Application+Developer;⚛️+React+Native+%26+Android+Specialist;🌐+Full-Stack+Web+Developer;🤖+Exploring+AI-Powered+Applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/diproylive">
     <img src="https://img.shields.io/github/followers/diproylive?label=Followers&style=for-the-badge&color=00F5D4&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=diproylive&color=0083b0&style=for-the-badge&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=diproylive&color=0083b0&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/diproylive">
+    <img src="https://img.shields.io/badge/Profile_Views-Active-0083b0?style=for-the-badge&logo=github" alt="Profile Views" />
   </a>
   <a href="https://github.com/diproylive?tab=repositories">
     <img src="https://img.shields.io/github/stars/diproylive?style=for-the-badge&color=ff007f&logo=github" alt="GitHub Stars" />
@@ -180,34 +180,10 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diproylive&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+### 📈 Live Contribution Activity Chart
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00b4db/diproylive" alt="Dip Roy's GitHub Contributions Chart" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/diproylive/diproylive/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
----
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diproylive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=diproylive&theme=tokyonight" alt="GitHub Achievements Badges" />
 </p>
 
 ---
