@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/header_banner_clean.png" alt="Dip Roy - Software Engineer Header Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=140&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=28&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="assets/banner.svg" alt="Dip Roy - Software Engineer Animated Banner" width="100%" />
 </p>
 
 <h1 align="center">
