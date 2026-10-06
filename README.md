@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="70%" />
+  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="100%" height="160" style="object-fit: cover;" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=170&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=32&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=120&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=28&fontColor=00f5d4&animation=twinkling&fontAlignY=40" width="100%" />
 </p>
 
 <h1 align="center">
@@ -133,6 +133,32 @@ I build scalable, high-performance mobile and web applications with a strong emp
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Driving School App (RN)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?style=flat-square&logo=react" alt="React Native" />
+      </p>
+      <p>Driving school management app featuring lesson scheduling, student tracking, and interactive test preps.</p>
+      <p align="center">
+        <a href="https://github.com/diproylive/Driving-School-App-RN" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Driving School Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⌨️ Typing Flow Desktop App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Desktop-Electron-47A248?style=flat-square&logo=electron" alt="Electron" />
+      </p>
+      <p>Interactive desktop application designed for typing speed analysis and real-time accuracy diagnostics.</p>
+      <p align="center">
+        <a href="https://github.com/diproylive/typing-flow-desktop-app" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Typing Flow Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -144,13 +170,21 @@ I build scalable, high-performance mobile and web applications with a strong emp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diproylive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diproylive&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=diproylive&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📈 Live Contribution Graph
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diproylive&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00b4db/diproylive" alt="Dip Roy's GitHub Contributions Chart" width="100%" />
@@ -158,34 +192,97 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📱 Developer Showcase Banner
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diproylive/diproylive/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diproylive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</div>
 
 <p align="center">
-  <img src="assets/header_banner.png" alt="Dip Roy Cyberpunk Tech Banner" width="60%" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=diproylive&theme=tokyonight" alt="GitHub Achievements Badges" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📚 Currently Exploring
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dip-roy-56a256257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/diproylive" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:diproylive@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/dipr00799" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/dipr00799/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🤖 Artificial Intelligence                 │
+│  🏗️  System Design                          │
+│  ⚡ Advanced React Native                   │
+│  🌐 Scalable Backend Architecture           │
+│  🎥 Real-Time Communication                 │
+│  ☁️  Cloud & DevOps                         │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=100&section=footer" width="100%" />
-</p>
+---
+
+### 💼 Professional Profile
+
+<div align="center">
+
+**Software Engineer • Mobile Developer • Problem Solver**
+
+Building applications that solve real-world problems.
+
+<br/>
+
+<a href="https://github.com/diproylive">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/diproylive" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-diproylive-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/dip-roy-56a256257/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:diproylive@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/dipr00799" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/dipr00799/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, consider giving my repositories a ⭐
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
