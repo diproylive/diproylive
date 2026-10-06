@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="assets/header_banner.png" alt="Dip Roy - Software Engineer Header Banner" width="100%" />
+  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=160&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=32&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="85%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dip+Roy;Software+Engineer;Mobile+Application+Developer;React+Native+%26+Android+Specialist;Exploring+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dip+Roy;Mobile+Application+Developer;React+Native+%26+Android+Specialist;Full-Stack+Web+Developer;Exploring+AI-Powered+Applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -133,10 +137,10 @@ I build scalable, high-performance mobile and web applications with a strong emp
 
 ---
 
-### 📱 Developer Showcase
+### 📱 Graphic Banner Showcase
 
 <p align="center">
-  <img src="assets/mobile_showcase.png" alt="Mobile App Showcase" width="100%" />
+  <img src="assets/header_banner.png" alt="Dip Roy Cyberpunk Tech Banner" width="60%" />
 </p>
 
 ---
