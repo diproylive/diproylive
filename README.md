@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Dip Roy - Software Engineer Animated Banner" width="100%" />
+  <img src="assets/banner_type2.png" alt="Dip Roy - Software Engineer Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header&text=Dip%20Roy%20%7C%20Software%20Engineer&fontSize=34&fontColor=00f5d4&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Dip+Roy;📱+Mobile+Application+Developer;⚛️+React+Native+%26+Android+Specialist;🌐+Full-Stack+Web+Developer;🤖+Exploring+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there!+I%27m+Dip+Roy&lines=Mobile+Application+Developer&lines=React+Native+%26+Android+Specialist&lines=Full-Stack+Web+Developer&lines=Exploring+AI-Powered+Applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
